@@ -97,7 +97,7 @@ credit-lending/
 3. Trigger DAG in Airflow UI.
 
 ## d) Output Samples
-   ### please refer the document link - https://github.com/LavanyaDamarapati/credit-lending-etl/blob/83fbebe76d5197f26ff72a6c99fd06415f861774/Architecture_and_SampleOutput.docx
+   ### please refer the document link - https://github.com/LavanyaDamarapati/credit-lending-etl-docs/blob/main/Architecture_and_SampleOutput.docx
   #### Execution framework result
   #### Bronze Layer (Raw Ingestion)
   #### Silver Layer (Transformed + SCD2 + PII Masking)
